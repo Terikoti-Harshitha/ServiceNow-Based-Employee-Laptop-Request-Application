@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog display_value="Employee Service Catalog">0afbd66d83270f508de9f2d6feaad360</sc_catalog>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-25 16:06:10</sys_created_on>
+        <sys_id>ae5cd2ad83270f508de9f2d6feaad3ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service</sys_name>
+        <sys_package display_value="Project Application" source="x_2145782_projec_0">7d3fa4dd832b4b508de9f2d6feaad38e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Project Application">7d3fa4dd832b4b508de9f2d6feaad38e</sys_scope>
+        <sys_update_name>sc_category_ae5cd2ad83270f508de9f2d6feaad3ea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-25 16:06:10</sys_updated_on>
+        <title>Service</title>
+    </sc_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=ae5cd2ad83270f508de9f2d6feaad3ea"/>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_employee_service_catalog</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-25 16:05:29</sys_created_on>
+        <sys_id>923cda6d83270f508de9f2d6feaad3ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Employee Service Catalog View</sys_name>
+        <sys_package display_value="Project Application" source="x_2145782_projec_0">7d3fa4dd832b4b508de9f2d6feaad38e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Project Application">7d3fa4dd832b4b508de9f2d6feaad38e</sys_scope>
+        <sys_update_name>sys_ui_view_923cda6d83270f508de9f2d6feaad3ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-25 16:05:29</sys_updated_on>
+        <title>Employee Service Catalog View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

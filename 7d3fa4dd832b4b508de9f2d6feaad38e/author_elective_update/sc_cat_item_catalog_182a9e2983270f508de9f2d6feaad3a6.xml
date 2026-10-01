@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Laptop Request">aea9022983a30f508de9f2d6feaad355</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-25 15:56:20</sys_created_on>
+        <sys_id>182a9e2983270f508de9f2d6feaad3a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Laptop Request</sys_name>
+        <sys_package display_value="Project Application" source="x_2145782_projec_0">7d3fa4dd832b4b508de9f2d6feaad38e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Project Application">7d3fa4dd832b4b508de9f2d6feaad38e</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_182a9e2983270f508de9f2d6feaad3a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-25 15:56:20</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Project Application">7d3fa4dd832b4b508de9f2d6feaad38e</application>
+        <file_path/>
+        <instance_id>257577961b0a0e94e84d2f8dee4bcb92</instance_id>
+        <instance_name>dev267561</instance_name>
+        <name>sc_cat_item_catalog_182a9e2983270f508de9f2d6feaad3a6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Laptop Request">aea9022983a30f508de9f2d6feaad355</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-25 15:56:20</sys_created_on><sys_id>182a9e2983270f508de9f2d6feaad3a6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Laptop Request</sys_name><sys_package display_value="Project Application" source="x_2145782_projec_0">7d3fa4dd832b4b508de9f2d6feaad38e</sys_package><sys_policy/><sys_scope display_value="Project Application">7d3fa4dd832b4b508de9f2d6feaad38e</sys_scope><sys_update_name>sc_cat_item_catalog_182a9e2983270f508de9f2d6feaad3a6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-25 15:56:20</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1036391491</payload_hash>
+        <record_name>Service Catalog.Laptop Request</record_name>
+        <reverted_from/>
+        <source>0e3fa4dd832b4b508de9f2d6feaad397</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-25 15:56:20</sys_created_on>
+        <sys_id>542ade2983270f508de9f2d6feaad316</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a0d9482a670000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-25 15:56:20</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>142ade2968270f507360e418b13fdf15</update_guid>
+        <update_guid_history>142ade2968270f507360e418b13fdf15:1036391491</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Laptop Request">c7810eb583238f508de9f2d6feaad339</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-26 08:47:25</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>177c1649702f4d2f9012463854031c31</sys_id>
+        <sys_metadata>182a9e2983270f508de9f2d6feaad3a6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Laptop Request</sys_name>
+        <sys_package display_value="Project Application" source="x_2145782_projec_0">7d3fa4dd832b4b508de9f2d6feaad38e</sys_package>
+        <sys_parent display_value="">aea9022983a30f508de9f2d6feaad355</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Project Application">7d3fa4dd832b4b508de9f2d6feaad38e</sys_scope>
+        <sys_scope_delete display_value="">3ffe226dc341471f9bc7168d9abc1029</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_182a9e2983270f508de9f2d6feaad3a6</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_182a9e2983270f508de9f2d6feaad3a6">542ade2983270f508de9f2d6feaad316</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-26 08:47:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

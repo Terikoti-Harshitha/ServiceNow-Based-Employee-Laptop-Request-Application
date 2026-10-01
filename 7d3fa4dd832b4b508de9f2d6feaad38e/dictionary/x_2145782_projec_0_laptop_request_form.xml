@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8210b051836b4b508de9f2d6feaad3b2" label="Laptop Request Form" max_length="40" name="x_2145782_projec_0_laptop_request_form" type="collection">
+        <element attributes="encode_utf8=false" label="Manager" max_length="32" name="manager" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Reason" max_length="40" name="reason" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Personal Use" sequence="1" value="personal use"/>
+                <element inactive_on_update="false" label="Software Development" sequence="0" value="software development"/>
+                <element inactive_on_update="false" label="Other" sequence="2" value="other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="status" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Approved" sequence="1" value="approved"/>
+                <element inactive_on_update="false" label="Rejected" sequence="2" value="rejected"/>
+                <element inactive_on_update="false" label="Pending Approval" sequence="0" value="pending approval"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" max_length="40" name="short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Request Date" max_length="40" name="request_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Employee Email" max_length="40" name="employee_email" type="string"/>
+        <element label="Requestor" max_length="32" name="requestor" reference="sys_user" type="reference"/>
+        <element attributes="Basic =basic,Advance=advance" choice="1" label="Type of Request" max_length="40" name="type_of_request" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Advance" sequence="1" value="advance"/>
+                <element inactive_on_update="false" label="Basic" sequence="0" value="basic"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="manager"/>
+        </index>
+        <index name="index2">
+            <element name="requestor"/>
+        </index>
+    </element>
+</database>

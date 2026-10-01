@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="reason" table="x_2145782_projec_0_laptop_request_form" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>reason</element>
+            <name>x_2145782_projec_0_laptop_request_form</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 09:04:38</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>reason</sys_name>
+            <sys_package display_value="Project Application" source="x_2145782_projec_0">7d3fa4dd832b4b508de9f2d6feaad38e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Project Application">7d3fa4dd832b4b508de9f2d6feaad38e</sys_scope>
+            <sys_update_name>sys_choice_x_2145782_projec_0_laptop_request_form_reason</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 09:04:38</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Software Development</label>
+            <language>en</language>
+            <name>x_2145782_projec_0_laptop_request_form</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 09:04:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 09:04:38</sys_updated_on>
+            <value>software development</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Personal Use</label>
+            <language>en</language>
+            <name>x_2145782_projec_0_laptop_request_form</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 09:04:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 09:04:38</sys_updated_on>
+            <value>personal use</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_2145782_projec_0_laptop_request_form</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-25 09:04:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-25 09:04:38</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
